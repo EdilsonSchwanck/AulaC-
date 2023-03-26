@@ -1,0 +1,15 @@
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\bin\Debug\net7.0\CrudPessoasLista.exe
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\bin\Debug\net7.0\CrudPessoasLista.deps.json
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\bin\Debug\net7.0\CrudPessoasLista.runtimeconfig.json
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\bin\Debug\net7.0\CrudPessoasLista.dll
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\bin\Debug\net7.0\CrudPessoasLista.pdb
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\obj\Debug\net7.0\CrudPessoasLista.csproj.AssemblyReference.cache
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\obj\Debug\net7.0\CrudPessoasLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\obj\Debug\net7.0\CrudPessoasLista.AssemblyInfoInputs.cache
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\obj\Debug\net7.0\CrudPessoasLista.AssemblyInfo.cs
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\obj\Debug\net7.0\CrudPessoasLista.csproj.CoreCompileInputs.cache
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\obj\Debug\net7.0\CrudPessoasLista.dll
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\obj\Debug\net7.0\refint\CrudPessoasLista.dll
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\obj\Debug\net7.0\CrudPessoasLista.pdb
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\obj\Debug\net7.0\CrudPessoasLista.genruntimeconfig.cache
+C:\Users\Edilson\Desktop\crud\CrudPessoasLista\CrudPessoasLista\obj\Debug\net7.0\ref\CrudPessoasLista.dll
